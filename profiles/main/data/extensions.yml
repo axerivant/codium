@@ -1,0 +1,134 @@
+disabled:
+  - id: builders-club.onlythemes
+    uuid: ac1770f1-d0cf-4a24-a8df-cd53da43de98
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: QuanLi.focus
+    uuid: d73185a6-22b2-4cc2-91ec-762803bfbfa2
+enabled:
+  - id: a5hk.night-coder
+    uuid: 0066fc39-b552-4f77-a717-1d1c135c181a
+  - id: Abraham.after-dark-owl
+    uuid: 7c98e8d4-3b95-42ae-852a-22779cd2d584
+  - id: andyhuzhill.typewriterscrollmode
+    uuid: 4ef68ff4-831f-41da-856d-d6f6ac5549da
+  - id: animus-coop.vscode-elixir-mix-formatter
+    uuid: 004356ab-6644-4b12-9361-ea71bdfcaa08
+  - id: ardenivanov.svelte-intellisense
+    uuid: ba2d692e-ab31-4861-8b19-e37fc1f859ed
+  - id: Arvischain.arvischain-theme
+    uuid: 10eac466-c55a-4f6c-a472-18d920b4b235
+  - id: blanu.vscode-styled-jsx
+    uuid: 282c56aa-f02e-40b6-b55e-bfdee63cea4d
+  - id: bloumbs.borders-dark
+    uuid: 35dfaed9-5a46-4f70-a38a-a5ce0240123f
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: brittanychiang.halcyon-vscode
+    uuid: da302e39-e7df-4ef8-8ddd-73eb422fb70b
+  - id: christian-kohler.path-intellisense
+    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: cocopon.iceberg-theme
+    uuid: 32d281a3-1221-4c5c-8a95-4d30f0e667ce
+  - id: dan-c-underwood.arm
+    uuid: 99e3906b-d232-48f2-902a-fcba762add97
+  - id: DanSarich.tokyo-right
+    uuid: bbad1089-b057-4b8f-a571-fdfd234c3a5e
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: donjayamanne.python-environment-manager
+    uuid: 0c9f60fd-5588-42f7-9176-e80c3ae111ec
+  - id: drewxs.tokyo-night-dark
+    uuid: e5a3a1b5-6ba9-4860-99b9-ea75c8cff848
+  - id: dsznajder.es7-react-js-snippets
+    uuid: 19804510-b475-4dae-b0f7-6ca08fd1af0c
+  - id: enkia.tokyo-night
+    uuid: 1cac7443-911e-48b9-8341-49f3880c288a
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: fivethree.vscode-svelte-snippets
+    uuid: a42d3dd1-f528-407c-a110-d5e35c7ca4c2
+  - id: formulahendry.auto-rename-tag
+    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: GitHub.github-vscode-theme
+    uuid: 7328a705-91fc-49e6-8293-da6f112e482d
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: huanamigo.tokyo-night-ultra
+    uuid: 6947b762-71f9-4889-a9e6-792568e4ce5e
+  - id: huytd.tokyo-city
+    uuid: 2f73698f-bcb3-458d-b932-10cbb6fdaea5
+  - id: inci-august.august-themes
+    uuid: 48ae7c99-20a7-46e2-ad55-bb870d763998
+  - id: iocave.customize-ui
+    uuid: ac44dd75-bdb7-433b-9d86-23f9f070c07a
+  - id: iocave.monkey-patch
+    uuid: 736c2316-7f4f-4b6a-8e5c-70527d82cf51
+  - id: jaci.karma-clear
+    uuid: a61e66a2-1995-4a31-8037-663f50bb19c3
+  - id: JakeBecker.elixir-ls
+    uuid: bc64531a-9b98-46f5-8ef9-88334d02cd60
+  - id: LudoLoops.loops-manjaro
+    uuid: 669cee8f-02dc-4bb6-876f-69391c94870b
+  - id: MagdalenaLipka.tokyo-night-frameless
+    uuid: e87d4e3b-0819-4408-b9ad-f37e629f1c14
+  - id: MatongoMulindi.abyss
+    uuid: f3759c1a-1421-44dc-bf39-2f7e0dd504c3
+  - id: miguelsolorio.min-theme
+    uuid: e9e7f567-5669-4c9c-a2db-df05d6cf28ed
+  - id: MikeyLau.typewriter-auto-scroll
+    uuid: 05644f6e-7c54-4fb7-8ddc-fdf114826cc6
+  - id: mKincaid.tokyo-night-redux
+    uuid: 1da6afe0-05b0-4865-99ff-a03c4e91ac67
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-pylance
+    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-keymap
+    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-vscode.live-server
+    uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
+  - id: NittishnaDhar.tokyo-shades
+    uuid: 1bd6b7ee-075a-4da3-9448-c10d837e12d8
+  - id: patbenatar.advanced-new-file
+    uuid: 2cbad5ee-b4ab-4de8-a1c7-77fede846155
+  - id: Prisma.prisma
+    uuid: 33ce9d6b-41cf-4972-a62b-386f7201981d
+  - id: rafamel.subtle-brackets
+    uuid: d477f472-4e0f-4b5c-bb35-b7c157fa4eb8
+  - id: rahmanyerli.ra-focus
+    uuid: 75787554-676f-4cd2-b3d3-0c6676fc912a
+  - id: ritwickdey.create-file-folder
+    uuid: 780dc8c6-3830-4524-9522-e643ca283f8f
+  - id: ritwickdey.LiveServer
+    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
+  - id: sleistner.vscode-fileutils
+    uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
+  - id: svelte.svelte-vscode
+    uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
+  - id: tera2.tokyo-night-pro-naive-theme
+    uuid: 6fd3ef5a-9ab4-4c02-8848-9db272505d81
+  - id: throwbly.focus
+    uuid: 9edd5281-f600-48e3-aae9-83e11df381a5
+  - id: Tobiah.language-pde
+    uuid: 10d2fb74-2a7d-4f74-8c25-9fa4632e22e6
+  - id: tompowis.one-dark-borders
+    uuid: 4c80ea22-a0d6-44c2-bdb5-7a94b3c7cce7
+  - id: Tyriar.sort-lines
+    uuid: 00518570-772b-4ccb-8b06-d056f3f556e0
+  - id: ultamatum.p5-project-creator
+    uuid: ebbe378d-d739-443f-83b1-7fa0ea037054
+  - id: vvisionnn.one-dark-darker-with-border
+    uuid: f6bcbc32-bd88-4944-96a6-67eb76f8df78
+  - id: yasht.terminal-all-in-one
+    uuid: 3697586c-677f-4321-9bb0-45f96e1057d1
+  - id: yile-ou.paddy-color-theme
+    uuid: 803fc541-0a71-4674-86ff-3ac171a963d0
+  - id: yzhang.markdown-all-in-one
+    uuid: 98790d67-10fa-497c-9113-f6c7489207b2
+  - id: zsakowitz.p5-resources
+    uuid: bb2ee296-6701-4ddf-b443-469ff1f8ed0f

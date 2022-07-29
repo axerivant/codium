@@ -1,0 +1,106 @@
+{
+	"sync.autoUpload": true,
+	// clutter-free customizations
+	"editor.minimap.enabled": false, // removes minimap
+	"editor.renderWhitespace": "none", // removes indent guides
+	"editor.renderLineHighlight": "none", // removes line highlight
+	"editor.overviewRulerBorder": false, // removes border from overview ruler (located on the right, same position as the scrollbar)
+	"editor.hideCursorInOverviewRuler": true, // hides cursor mark in the overview ruler
+	"editor.folding": false, // removes the folding feature
+	"editor.occurrencesHighlight": false, // removes highlights occurrences (still works when you select a word)
+	"editor.matchBrackets": "never", // removes the highlight of matching brackets (I use Subtle Match Brackets extension for this)
+	"editor.glyphMargin": false, // removes the space used mainly for debugging indicators
+	"explorer.openEditors.visible": 0, // removes the activity bar (the 4 icons at the left of the screen), so now you will have to open the explorer, git, debugger and extension with shortcuts or through the Command Palette
+	"workbench.editor.showIcons": false, // removes icon from opened files in tabs
+	"workbench.editor.tabCloseButton": "off", // removes the status bar
+	"indenticator.color.dark": "rgba(255,255,255,.1)", // adds a subtle indent guide (needs Indenticator extension)
+	"workbench.colorCustomizations": {
+		// object that allows you to customize your color theme: https://code.visualstudio.com/docs/getstarted/theme-color-reference
+		// "tab.activeBorder": "#0000", // removes border to highlight active tabs (the colors formats are: #RGB, #RGBA, #RRGGBB or #RRGGBBAA)
+		"tab.activeText": "#ffffff",
+		"tab.inactiveBorder": "#ff0000"
+	},
+	"editor.formatOnSave": true,
+	"editor.fontFamily": "Dank mono, SF Mono ,Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontSize": 17,
+	"editor.fontWeight": "350",
+	"editor.lineHeight": 1.72,
+	"workbench.fontAliasing": "antialiased",
+	"editor.guides.indentation": false,
+	"files.excludeGitIgnore": true,
+	"files.exclude": {
+		".expo": true,
+		".expo-shared": true,
+		".next": true,
+		".prettierignore": true,
+		".svelte-kit": true,
+		".swc": true,
+		"dist": true,
+		"next-env.d.ts": true,
+		"node_modules": true,
+		"package-lock.json": true,
+		"pnpm-lock.yaml": true
+	},
+	"svelte.enable-ts-plugin": true,
+	"editor.tabSize": 2,
+	"prettier.semi": false,
+	"prettier.useTabs": true,
+	"prettier.trailingComma": "none",
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"customizeUI.stylesheet": {
+		// Hide title actions in Zen-mode
+		"div.monaco-split-view2.horizontal.separator-border div.title-actions": "display: none !important;",
+
+		// Hide decorations over vertical scrollbar *
+		".decorationsOverviewRuler": "display: none !important;",
+
+		// Hide scrollbar slider *
+		"div.monaco-split-view2.horizontal.separator-border .slider": "display: none !important;",
+
+		// Attempt to hide vertical borders (not working yet)
+		"div.monaco-sash.vertical": "visible: hidden",
+
+		// Hide File and title actions bar
+		// ".monaco-workbench .part.editor>.content .editor-group-container>.title>.label-container": "display: none !important;",
+
+		// Center vertically the text editor and reduce its height
+		"div.monaco-split-view2.horizontal.separator-border > div.split-view-container > div:nth-child(2) > div > div": "top: 25%; height: 50%"
+	},
+	"workbench.iconTheme": null,
+	"explorer.sortOrder": "type",
+	"workbench.colorTheme": "Tokyo Night",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[svelte]": {
+		"editor.defaultFormatter": "svelte.svelte-vscode"
+	},
+	"go.autocompleteUnimportedPackages": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.rename.enablePreview": false,
+	"diffEditor.renderIndicators": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"reactSnippets.settings.importReactOnTop": false,
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"svelte.plugin.svelte.defaultScriptLanguage": "ts",
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"window.zoomLevel": -1,
+	"sync.quietSync": true,
+	"sync.autoDownload": true,
+	"sync.gist": "f8fbac57fc2037fd1277e7cf37b49074"
+}

@@ -1,0 +1,15 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+	{
+		"key": "shift+cmd+n",
+		"command": "explorer.newFolder"
+	},
+	{
+		"key": "cmd+n",
+		"command": "explorer.newFile"
+	},
+	{
+		"key": "ctrl+shift+o",
+		"command": "editor.action.openLink"
+	}
+]
